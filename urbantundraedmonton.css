@@ -1,0 +1,73 @@
+body{
+	background-image: url("http://wallgallery.org/wp-content/uploads/2016/05/Mars-high-quality-wallpapers.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover; 
+}
+
+header {
+	margin: 25px 0px;
+	width: 500px;
+	height: 64px; 
+}
+
+#menu_table {
+	margin: 0px 550px;
+	width: 800px;
+	height: 64px;
+	color: white;
+	border: 1px solid white;
+	text-align: center;
+}
+
+td {
+	border: 1px solid white;
+	width: 100px;
+}
+
+#wrapper {
+	margin: 100px 50px;
+	width: 500px;
+	height: 300px;
+	background-color: white;
+	opacity: 0.5;
+	text-align: center;
+}
+
+#summary {
+	margin: 300px 0px;
+	width: 1250px;
+	height: 500px;
+	background-color: white;
+	opacity: 0.5;
+}
+
+/* div#team_name {
+	margin: 25px 0px;
+	width: 500px;
+	height: 50px;
+	padding: 0px;
+	background: #e0eeee;
+	opacity: 0.4;
+	text-align: center;
+} 
+
+h1#team_name {
+	color: blue;
+} 
+
+div#menu_tab {
+	margin: 25px 550px;
+	width: 800px;
+	height: 50px;
+	padding: 0px;
+	background: #fff;
+	text-align: center;
+	display: inline;
+	
+} */
+
+h1 {
+	color: yellow;
+}
